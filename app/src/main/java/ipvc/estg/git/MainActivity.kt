@@ -16,6 +16,6 @@ class MainActivity : AppCompatActivity() {
 
         //sara added method d
 
-        //add method E
+        //add method E.2
     }
 }
